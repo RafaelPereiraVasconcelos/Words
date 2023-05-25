@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+    <item>Adidas</item>
+    <item>Brahma</item>
+    <item>Calvin Klein</item>
+    <item>Danone</item>
+    <item>Electrolux</item>
+    <item>Faber Castell</item>
+    <item>Gilette</item>
+    <item>Hugo Boss</item>
+    <item>Ipanema</item>
+    <item>Jeep</item>
+    <item>KFC</item>
+    <item>lacoste</item>
+    <item>Miu Miu</item>
+    <item>NBA</item>
+    <item>Oakley</item>
+    <item>Prada</item>
+    <item>Quiksilver</item>
+    <item>Ralph Lauren</item>
+    <item>Spotify</item>
+    <item>Tesla</item>
+    <item>Umbro</item>
+    <item>Versace</item>
+    <item>Windows</item>
+    <item>Xiaomi</item>
+    <item>YouTube</item>
+    <item>Zara</item>
+    </string-array>
+
+</resources>
